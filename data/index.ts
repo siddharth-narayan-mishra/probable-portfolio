@@ -118,6 +118,7 @@ export const projects = [
         link: "/fitscore.app",
     },
 ]
+
 export const testimonials = [
     {
         quote: "Rakathon is a 36-hour hackathon that challenges participants to build innovative solutions using cutting-edge technologies. Teams compete to solve real-world problems and showcase their technical skills.",
@@ -143,6 +144,34 @@ export const testimonials = [
         quote: "HackNITR is India's biggest student-run hackathon, attracting participants from across the country. As a core team member, Aditya plays a crucial role in organizing and managing this large-scale event.",
         name: "HackNITR",
         title: "Core Team Member",
+    },
+]
+
+export const extrac = [
+    {
+        quote: "President at Machine Learning for Everyone (ML4E), Rourkela, India.",
+        name: "ML4E, NIT Rourkela",
+        title: "President",
+    },
+    {
+        quote: "Core Team Member at HackNITR, Rourkela, India.",
+        name: "HackNITR",
+        title: "Core Team, Organiser",
+    },
+    {
+        quote: "HackNITR is one of India's largest student-run hackathons, bringing together talented developers from across the country. It provides a platform for students to showcase their coding skills and innovative ideas.",
+        name: "HackNITR",
+        title: "Finalist (Top 20 Teams)",
+    },
+    {
+        quote: "As President of Machine Learning for Everyone (ML4E) at NIT Rourkela, Aditya leads the official ML and DL community. The club collaborates with various domains to create industry-relevant projects.",
+        name: "Machine Learning for Everyone (ML4E)",
+        title: "President",
+    },
+    {
+        quote: "As a campus journalist, 15+ articles covering academia, editorials, podcasts and interviews with extraordinaire alumnus and respected professors",
+        name: "Monday Morning",
+        title: "Campus Journalist",
     },
 ]
 
