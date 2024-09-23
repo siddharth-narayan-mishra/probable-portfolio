@@ -45,17 +45,6 @@ const RecentProjects = () => {
                             >
                                 {item.des}
                             </p>
-                            <div className="flex items-center justify-between mt-7 mb-3">
-                                <div className="flex justify-center items-center">
-                                    <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                                        View Project
-                                    </p>
-                                    <FaLocationArrow
-                                        className="ms-3"
-                                        color="#CBACF9"
-                                    />
-                                </div>
-                            </div>
                         </PinContainer>
                     </div>
                 ))}
