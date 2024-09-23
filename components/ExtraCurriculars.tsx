@@ -9,8 +9,7 @@ const Clients = () => {
   return (
       <section id="testimonials" className="py-20">
           <h1 className="heading">
-              Notable <span className="text-purple">Achievements</span> and
-              Recognition
+              Volunteering Experience
           </h1>
 
           <div className="flex flex-col items-center max-lg:mt-10">
